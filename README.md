@@ -44,7 +44,7 @@ Buka http://localhost:8000 → Anda akan diarahkan ke halaman login.
 ## Akun Admin
 | Email | Password |
 |---|---|
-| `admin@admin.com` | `password` |
+| `admin@admin.com` | `123456` |
 
 Akun ini dibuat oleh seeder / file SQL (password disimpan sebagai hash bcrypt). **Segera ganti** untuk penggunaan nyata.
 Untuk membuat admin baru atau mereset password:
